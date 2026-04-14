@@ -4,7 +4,7 @@ Arquivos gerados durante a avaliação de Lógica de Programação, algoritmos e
 
 ## Tecnologias
 
-|Tecnologia|Ultilidade|
+|Tecnologia|Utilidade|
 |:-:|-|
 |Linguagem *C*|Desenvolvimento|
 |IDE| Embarcadero *Dev C++*|
